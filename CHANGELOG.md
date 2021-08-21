@@ -1,3 +1,24 @@
+## [Unreleased] - 2021-08-17
+
+### Added
+- [#37](https://github.com/aeon-php/business-hours/pull/37) - **Integration with Automation** - [@norberttech](https://github.com/norberttech)
+- [#11](https://github.com/aeon-php/business-hours/pull/11) - **psalm-pure for static factory methods** - [@tomaszhanc](https://github.com/tomaszhanc)
+
+### Changed
+- [#47](https://github.com/aeon-php/business-hours/pull/47) - **updated aeon-php/calendar dependency** - [@norberttech](https://github.com/norberttech)
+- [#38](https://github.com/aeon-php/business-hours/pull/38) - **Updated dependencies** - [@norberttech](https://github.com/norberttech)
+- [29aebd](https://github.com/tomaszhanc/business-hours/commit/29aebdec5c3c4fef0cd8f718062403b5e0bc2802) - **Update CHANGELOG.md** - [@norberttech](https://github.com/norberttech)
+- [#33](https://github.com/aeon-php/business-hours/pull/33) - **Business Hours namespace, moved phpunit to tools** - [@norberttech](https://github.com/norberttech)
+- [#30](https://github.com/aeon-php/business-hours/pull/30) - **Run tests against php8** - [@norberttech](https://github.com/norberttech)
+- [e5c5aa](https://github.com/tomaszhanc/business-hours/commit/e5c5aac922db65d8b02b8943ad37bf425bddb5e9) - **Update README.md** - [@norberttech](https://github.com/norberttech)
+- [049279](https://github.com/tomaszhanc/business-hours/commit/049279e6fb11d410490251a17f3704479232437b) - **Update CHANGELOG.md** - [@norberttech](https://github.com/norberttech)
+- [#13](https://github.com/aeon-php/business-hours/pull/13) - **aeon-php/calendar dependency to >= 0.6.0** - [@norberttech](https://github.com/norberttech)
+- [c79fc2](https://github.com/tomaszhanc/business-hours/commit/c79fc215cd389b1c949b126bedbefe66bc4c0ae9) - **Update CHANGELOG.md** - [@norberttech](https://github.com/norberttech)
+- [cfaeea](https://github.com/tomaszhanc/business-hours/commit/cfaeea36c8cdaa52db3aa2c9242139bc78668d4f) - **dependencies** - [@norberttech](https://github.com/norberttech)
+
+### Removed
+- [#47](https://github.com/aeon-php/business-hours/pull/47) - **phive in favor of another composer.json just for tools** - [@norberttech](https://github.com/norberttech)
+
 ## [0.7.1] - 2021-05-03
 
 ### Changed
